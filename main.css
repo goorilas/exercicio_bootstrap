@@ -1,0 +1,10 @@
+.botao {
+    padding: 15px;
+    display: flex;
+    margin: auto;
+    margin-top: 8px;
+}
+
+.email {
+    margin-top: 16px;
+}
